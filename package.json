@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/mhmocode/huddle_landing_page-myversion-1st#readme",
   "dependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   }
 }
